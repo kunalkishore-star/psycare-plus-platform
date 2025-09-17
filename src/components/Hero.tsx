@@ -34,13 +34,13 @@ export default function Hero() {
 
           <p className="text-xl md:text-2xl text-muted-foreground mb-12 max-w-3xl mx-auto leading-relaxed">
             Professional psychology consultations, therapy sessions, and personalized mental health support. 
-            Available daily, weekly, or monthly to fit your wellness journey.
+            Book directly with our licensed experts based on their available time slots.
           </p>
 
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">
             <Button variant="hero" size="xl" className="min-w-48">
-              Start Your Journey
+              Book Consultation
             </Button>
             <Button variant="calm" size="xl" className="min-w-48">
               <MessageCircle className="h-5 w-5" />

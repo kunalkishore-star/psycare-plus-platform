@@ -123,8 +123,8 @@ export default function Services() {
             <span className="text-transparent bg-gradient-accent bg-clip-text"> Consultation Services</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Our licensed psychologists and therapists provide personalized care across 
-            a wide range of mental health and wellness areas.
+            Book your consultation directly based on our experts' availability. 
+            Choose from flexible time slots that work best for your schedule.
           </p>
         </div>
 
